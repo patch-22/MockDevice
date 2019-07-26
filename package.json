@@ -1,0 +1,23 @@
+{
+  "name": "device-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patch-22/MockDevice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patch-22/MockDevice/issues"
+  },
+  "homepage": "https://github.com/patch-22/MockDevice#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "request": "^2.88.0"
+  }
+}
